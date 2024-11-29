@@ -18,7 +18,7 @@
     <docsUrl>https://documentation.ubuntu.com/lxd/en/latest/</docsUrl>
     <bugTrackerUrl>https://github.com/canonical/lxd/issues</bugTrackerUrl>
     <tags>lxc lxd</tags>
-    <summary>System container manager - client</summary>
+    <summary>Modern, secure and powerful system container and virtual machine manager</summary>
     <description>CLI client for interacting with LXD</description>
   </metadata>
   <files>
