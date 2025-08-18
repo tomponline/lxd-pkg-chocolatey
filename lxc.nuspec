@@ -12,7 +12,7 @@
     <projectUrl>https://ubuntu.com/lxd</projectUrl>
     <iconUrl>https://launchpadlibrarian.net/717404753/LXD%20tags%402x_square_192.png</iconUrl>
     <releaseNotes>https://discourse.ubuntu.com/t/lxd-6-5-has-been-released/64873</releaseNotes>
-    <licenseUrl>https://github.com/canonical/lxd/blob/master/COPYING</licenseUrl>
+    <licenseUrl>https://github.com/canonical/lxd/blob/main/COPYING</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/canonical/lxd</projectSourceUrl>
     <docsUrl>https://documentation.ubuntu.com/lxd/en/latest/</docsUrl>
